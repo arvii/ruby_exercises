@@ -9,5 +9,4 @@ class VigenereCipher
 	def decrypt encrypted_value, salt
 		process_decryption encrypted_value, salt
 	end
-
 end
